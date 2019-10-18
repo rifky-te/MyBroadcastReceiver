@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBroadcastReceiver</string>
+    <string name="this_is_receiver_app">This is Receiver App</string>
+    <string name="check_sms_permission">Check SMS Permission</string>
+    <string name="coming_from">Coming From</string>
+    <string name="this_play">This Play</string>
+    <string name="close">Close</string>
+</resources>
